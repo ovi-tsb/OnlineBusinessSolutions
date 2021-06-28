@@ -316,7 +316,7 @@ a.text-button-icon:hover i {
   overflow-y: auto;
 }
 #demoVideo{
-  max-width:100%;
+  max-width:100% !important;
 }
 
 
