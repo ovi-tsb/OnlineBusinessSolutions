@@ -317,6 +317,8 @@ a.text-button-icon:hover i {
 }
 #demoVideo{
   max-width:100% !important;
+  display: block;
+  outline: none;
 }
 
 
