@@ -310,6 +310,15 @@ a.text-button-icon:hover i {
   margin-top: 20px;
   margin-bottom: 0px;
 }
+.modal-content{
+  width:100% !important;
+  margin: auto;
+  overflow-y: auto;
+}
+#demoVideo{
+  max-width:100%;
+}
+
 
 
 /* 
@@ -440,6 +449,10 @@ header
     /*max-height: 370px;*/
   }
 }
+/*******************************************************************/
+/*******************************************************************/
+
+
 
 @media (max-width: 767px) {
   .header-area .main-nav .nav .search-icon {
