@@ -316,10 +316,24 @@ a.text-button-icon:hover i {
   overflow-y: auto;
 }
 #demoVideo{
-  max-width:100% !important;
+  /*max-width:100% !important;
   display: block;
   outline: none;
-  overflow-y: auto;
+  overflow-y: auto;*/
+
+   
+      right: 0; 
+      bottom: 0;
+      max-width: 100%; 
+      min-height: 100%;
+      width: auto; 
+      height: auto; 
+      z-index: -100;
+      background-size: cover;
+      overflow-y: auto;
+
+
+
 }
 .modal-body{
   width:100% !important;
