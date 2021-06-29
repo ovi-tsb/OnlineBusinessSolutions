@@ -321,6 +321,10 @@ a.text-button-icon:hover i {
   outline: none;
   overflow-y: auto;
 }
+.modal-body{
+  width:100% !important;
+  overflow-y: auto;
+}
 
 
 
