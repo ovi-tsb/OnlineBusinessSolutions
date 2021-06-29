@@ -319,6 +319,7 @@ a.text-button-icon:hover i {
   max-width:100% !important;
   display: block;
   outline: none;
+  overflow-y: auto;
 }
 
 
