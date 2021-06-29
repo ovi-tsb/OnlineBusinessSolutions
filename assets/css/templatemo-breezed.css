@@ -338,6 +338,14 @@ a.text-button-icon:hover i {
   .modal-dialog{
     max-width: 96% ;
   }
+  .modal-content{
+    max-width:100% !important;
+    
+  }
+  #demoVideo{
+    max-width: 100%;
+    
+  }
   .grid{
     min-height: 430px !important;
   }
