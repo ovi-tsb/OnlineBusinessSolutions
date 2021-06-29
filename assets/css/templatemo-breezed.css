@@ -317,9 +317,11 @@ a.text-button-icon:hover i {
 }
 #demoVideo{
   max-width:100% !important;
+  max-height: 100%;
   display: block;
   outline: none;
   overflow-y: auto;
+  position:relative;
 
    
       /*right: 0; 
