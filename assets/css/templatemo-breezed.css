@@ -322,7 +322,7 @@ a.text-button-icon:hover i {
   overflow-y: auto;*/
 
    
-      /*right: 0; 
+      right: 0; 
       bottom: 0;
       max-width: 100%; 
       min-height: 100%;
@@ -330,11 +330,9 @@ a.text-button-icon:hover i {
       height: auto; 
       z-index: -100;
       background-size: cover;
-      overflow-y: auto;
-*/
-      width: 100%;
-          height: 100%;
-          display: flex;
+      overflow-y: hidden;
+
+      display: flex;
 
 
 
