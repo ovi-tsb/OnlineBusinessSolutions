@@ -338,8 +338,8 @@ a.text-button-icon:hover i {
 
 }
 
-@media screen and (-webkit-min-device-pixel-ratio:0)
-  and (min-resolution:.001dpcm) {
+/* Chrome only: */
+@media all and (-webkit-min-device-pixel-ratio:0) and (min-resolution: .001dpcm){
     #demoVideo{
       max-width:400px;
       border: 2px solid red;
